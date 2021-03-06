@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>stockWallpaper.jpg</file>
+        <file>StatusBar.qml</file>
+        <file>StackViewPage.qml</file>
+        <file>GridOne.qml</file>
+        <file>GridTwo.qml</file>
+        <file>StationPage.qml</file>
+    </qresource>
+</RCC>
